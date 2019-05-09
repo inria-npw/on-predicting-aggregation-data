@@ -4,11 +4,11 @@
 2) traf_cputr_01m_30000us_spy_02p to
    traf_cputr_01m_30000us_srv_15p
 
-3) traf_cputr_10m_01100us_spy_02p to
-   traf_cputr_10m_01100us_srv_15p
+3) traf_cputr_30m_01100us_spy_02p to
+   traf_cputr_30m_01100us_srv_15p
 
-4) traf_cputr_10m_30000us_spy_02p to
-   traf_cputr_10m_30000us_srv_15p
+4) traf_cputr_30m_30000us_spy_02p to
+   traf_cputr_30m_30000us_srv_15p
 
 5) traf_phone_01m_01100us_spy_02p to
    traf_phone_01m_01100us_srv_15p
@@ -16,11 +16,11 @@
 6) traf_phone_01m_30000us_spy_02p to
    traf_phone_01m_30000us_srv_15p
 
-7) traf_phone_10m_01100us_spy_02p to
-   traf_phone_10m_01100us_srv_15p
+7) traf_phone_30m_01100us_spy_02p to
+   traf_phone_30m_01100us_srv_15p
 
-8) traf_phone_10m_30000us_spy_02p to
-   traf_phone_10m_30000us_srv_15p
+8) traf_phone_30m_30000us_spy_02p to
+   traf_phone_30m_30000us_srv_15p
 
 9) notr_cputr_01m_01100us_spy_02p to
    notr_cputr_01m_01100us_srv_15p
@@ -28,11 +28,11 @@
 10) notr_cputr_01m_30000us_spy_02p to
     notr_cputr_01m_30000us_srv_15p
 
-11) notr_cputr_10m_01100us_spy_02p to
-    notr_cputr_10m_01100us_srv_15p
+11) notr_cputr_30m_01100us_spy_02p to
+    notr_cputr_30m_01100us_srv_15p
 
-12) notr_cputr_10m_30000us_spy_02p to
-    notr_cputr_10m_30000us_srv_15p
+12) notr_cputr_30m_30000us_spy_02p to
+    notr_cputr_30m_30000us_srv_15p
 
 13) notr_phone_01m_01100us_spy_02p to
     notr_phone_01m_01100us_srv_15p
@@ -40,8 +40,8 @@
 14) notr_phone_01m_30000us_spy_02p to
     notr_phone_01m_30000us_srv_15p
 
-15) notr_phone_10m_01100us_spy_02p to
-    notr_phone_10m_01100us_srv_15p
+15) notr_phone_30m_01100us_spy_02p to
+    notr_phone_30m_01100us_srv_15p
 
-16) notr_phone_10m_30000us_spy_02p to
-    notr_phone_10m_30000us_srv_15p
+16) notr_phone_30m_30000us_spy_02p to
+    notr_phone_30m_30000us_srv_15p
